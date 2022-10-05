@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/elmer jose muñoz zuñiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elmer jose muñoz zuñiga" height="30" width="40" /></a>
 <a href="https://instagram.com/elm_jmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elm_jmz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ejmz10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ejmz10" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucsioej9j7xcfqcau3nruhug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsioej9j7xcfqcau3nruhug" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ejmunoz216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ejmunoz216" height="30" width="40" /></a>
 </p>
 
