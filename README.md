@@ -13,7 +13,7 @@
  - :heart: Improving my CV with some education apart from university
  - 🛸 Space enthusiast and Star Wars nerd
  - :muscle: All About living life at its best
-<p style="text-align:center;">
+<p align="center">
   <img src="https://github.com/Necmttn/Necmttn/blob/master/preview.gif" width="350" />
 <br />
  <h2 align="center"> 🛠  Tech Stack </h2>
