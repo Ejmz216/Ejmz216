@@ -1,5 +1,5 @@
 <div>
-   <h1 align="center">Hi there, I'm <a>Elmer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1 align="center">Hello there. I'm Elmer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
 <br />
 <p align="center">
@@ -11,11 +11,12 @@
  - :rocket: Learning React & Next.Js 
  - 🌱 Investigating about Chatbots, User Experience and Design Patterns, i started liking HCI too much.
  - :heart: Improving my CV with some education apart from university
- - 🛸 Space enthusiast and Star Wars nerd😼
- - :muscle: All About living life at its best.
-
+ - 🛸 Space enthusiast and Star Wars nerd
+ - :muscle: All About living life at its best
+<p style="text-align:center;">
+  <img src="https://github.com/Necmttn/Necmttn/blob/master/preview.gif" width="350" />
 <br />
-<h2 align="center"> 🛠  Tech Stack </h2>
+ <h2 align="center"> 🛠  Tech Stack </h2>
 
 
 - 💻 &nbsp;
