@@ -3,7 +3,7 @@
    
 <br />
 <p align="center">
-  <h3> I'm an Electonic and Telecom Engineer and a Self-taught Frontend Developer from colombia.</h3>
+  <h3> I'm an Electonic and Telecom Engineer and Frontend Developer from colombia.</h3>
 </p>
 
 🔭 Things I am currently working on or i like:
