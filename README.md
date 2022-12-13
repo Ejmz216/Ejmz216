@@ -10,7 +10,6 @@
  - 🎓 Finishing my engineering degree
  - :rocket: Learning React & Next.Js 
  - 🌱 Investigating about Chatbots, User Experience and Design Patterns, i started liking HCI too much.
- - :heart: Improving my CV with some education apart from university
  - 🛸 Space enthusiast and Star Wars nerd
  - :muscle: All About living life at its best
 <p align="center">
