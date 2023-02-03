@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <h3> I'm an Electonic and Telecom Engineer and Frontend Developer from colombia.</h3>
-  <h3> Know me -> https://ejmz216.github.io/portfolio-elmer/ <h3>
+  <h3> https://ejmz216.github.io/eljose <h3>
 </p>
 
 🔭 Things I am currently working on or i like:
