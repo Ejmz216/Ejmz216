@@ -10,7 +10,7 @@
 🔭 Things I am currently working on or i like:
  - 🎓 Finishing my engineering degree
  - :rocket: Learning React & Next.Js 
- - 🌱 Investigating about Chatbots, User Experience and Design Patterns, i started liking HCI too much.
+ - 🌱 Investigating about Human-Computer Interaction, Chatbots, User Experience and Design Patterns
  - 🛸 Space enthusiast and Star Wars nerd
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
