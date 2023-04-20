@@ -9,7 +9,7 @@
 
 🔭 Things I am currently working on or i like:
  - 🎓 Finishing my engineering degree
- - :rocket: Learning React & Next.Js 
+ - :rocket: Learning React, Angular & SpringBoot
  - 🌱 Investigating about Human-Computer Interaction, Chatbots, User Experience and Design Patterns
  - 🛸 Space enthusiast and Star Wars nerd
 <p align="center">
