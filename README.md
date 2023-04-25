@@ -3,7 +3,7 @@
    
 <br />
 <p align="center">
-  <h3> I'm an Electonic and Telecom Engineer and Frontend Developer from colombia.</h3>
+  <h3> I'm an Electonic and Telecom Engineer and Software Developer from colombia.</h3>
   <h3> https://ejmz216.github.io/eljose <h3>
 </p>
 
