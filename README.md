@@ -3,13 +3,14 @@
    
 <br />
 <p align="center">
-  <h3> I'm an Electonic and Telecom Engineer and Software Developer from colombia.</h3>
+  <h3> I'm an Electonic and Telecom Engineer, Software Developer and Requirements Analyst from colombia.</h3>
   <h3> https://ejmz216.github.io/eljose <h3>
 </p>
 
 🔭 Things I am currently working on or i like:
+ - 🧑🏼‍💻 Requirements Analyst at BPO Labs
  - 🎓 Finishing my engineering degree
- - :rocket: Learning React, Angular & SpringBoot
+ - :rocket: Learning React, .Net & SpringBoot
  - 🌱 Investigating about Human-Computer Interaction, Chatbots, User Experience and Design Patterns
  - 🛸 Space enthusiast and Star Wars nerd
 <p align="center">
