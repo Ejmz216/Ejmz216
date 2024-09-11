@@ -8,10 +8,9 @@
 </p>
 
 🔭 Things I am currently working on or i like:
- - 🧑🏼‍💻 Requirements Analyst at BPO Labs
- - 🎓 Finishing my engineering degree
- - :rocket: Learning React, .Net & SpringBoot
- - 🌱 Investigating about Human-Computer Interaction, Chatbots, User Experience and Design Patterns
+ - 🧑🏼‍💻 Requirements Analyst, Product Manager Jr at BPO Labs
+ - 🎓 Electronic & Telecom Engenieer
+ - :rocket: Learning   UX/UI, Data Analysis & HCI
  - 🛸 Space enthusiast and Star Wars nerd
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
