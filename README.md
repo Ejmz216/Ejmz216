@@ -9,7 +9,7 @@
 🔭 Things I am currently working on or i like:
  - 🧑🏼‍💻 Requirements Analyst, Product Manager Jr at BPO Labs
  - 🎓  Electronics & Telecommunications Engineer
- - :rocket: Learning UX/UI, Data Analysis & HCI
+ - :rocket: PMI Certifications PMP/CAPM, Python for AI and Data Analysis
  - 🛸 Space enthusiast and Star Wars nerd
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
