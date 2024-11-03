@@ -3,14 +3,13 @@
    
 <br />
 <p align="center">
-  <h3> I'm an Electonic and Telecom Engineer, Software Developer and Requirements Analyst from colombia.</h3>
-  <h3> https://ejmz216.github.io/eljose <h3>
+  <h3> I'm an Electronics & Telecommunications Engineer specializing in Human-Computer Interaction, with a strong focus on project management and software development. Experienced in requirements analysis and leading multidisciplinary teams to deliver high-quality solutions. Passionate about integrating technology and management to drive project success.</h3>
 </p>
 
 🔭 Things I am currently working on or i like:
  - 🧑🏼‍💻 Requirements Analyst, Product Manager Jr at BPO Labs
- - 🎓 Electronic & Telecom Engenieer
- - :rocket: Learning   UX/UI, Data Analysis & HCI
+ - 🎓  Electronics & Telecommunications Engineer
+ - :rocket: Learning UX/UI, Data Analysis & HCI
  - 🛸 Space enthusiast and Star Wars nerd
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
