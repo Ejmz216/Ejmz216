@@ -3,14 +3,23 @@
    
 <br />
 <p align="center">
-  <h3> I'm an Electronics & Telecommunications Engineer specializing in Human-Computer Interaction, with a strong focus on project management and software development. Experienced in requirements analysis and leading multidisciplinary teams to deliver high-quality solutions. Passionate about integrating technology and management to drive project success.</h3>
+  <h3>
+  I'm an Electronics & Telecommunications Engineer with a specialization in Human-Computer Interaction, currently working as a Business Analyst and Project Manager in a SaaS environment.
+  <br /><br />
+  I focus on bridging business needs with technical solutions, leading requirements definition, process optimization, and data-driven decision making across complex systems.
+  <br /><br />
+  I have hands-on experience with Python, SQL, Power BI, and cloud-based architectures, and I'm continuously strengthening my skills in data analytics, AI, and scalable system design.
+  </h3>
 </p>
 
-🔭 Things I am currently working on or i like:
- - 🧑🏼‍💻 Requirements Analyst, Product Manager Jr at BPO Labs
- - 🎓  Electronics & Telecommunications Engineer
- - :rocket: PMI Certifications PMP/CAPM, Python for AI and Data Analysis
- - 🛸 Space enthusiast and Star Wars nerd
+🔭 Things I am currently working on or interested in:
+ - 🧑🏼‍💻 Business Analyst & Project Manager at BPO Labs (ConnectUp SaaS Platform)
+ - 📊 Data Analytics: Power BI, Python & SQL
+ - ☁️ Cloud & scalable architectures (AWS, microservices)
+ - 🎓 Future MSc in Big Data & Advanced Analytics (Spain 🇪🇸)
+ - 📚 Certifications: CCBA (in progress), PMP track
+ - 🛸 Space enthusiast & Star Wars nerd
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
